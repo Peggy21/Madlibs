@@ -1,0 +1,13 @@
+body {
+    background: rgb(248, 188, 164);
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:oblique;
+}
+
+p{
+    font-size: larger;
+    font-style: italic;
+}
